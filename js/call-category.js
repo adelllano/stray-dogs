@@ -39,7 +39,8 @@
                     .attr("width", function(d){ return d/15;})
                     .attr("x", xOffset)
                     .attr("y", function(d, i){ return 20*i;})
-                    .attr("fill", " #669933")
+                    // .attr("fill", " #669933")
+                    .attr("fill", " #a7f459")
 
     barGroup.append("g").attr("class", "axis y")
                    .attr("transform", "translate(" + xOffset + ", 6)")
