@@ -4,145 +4,145 @@
 	 viewBox="0 0 960 235" style="enable-background:new 0 0 960 235;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{fill:none;stroke:#2D2D2D;stroke-miterlimit:10;}
-	.st2{font-family:'Arial-Black';}
-	.st3{font-size:72px;}
-	.st4{font-family:'ArialMT';}
-	.st5{font-size:21px;}
-	.st6{fill:#188EEF;}
-	.st7{fill:#FCFCFC;}
-	.st8{font-size:22px;}
-	.st9{font-size:20px;}
-	.st10{fill:#444443;}
-	.st11{font-size:44px;}
-	.st12{fill:none;stroke:#9FA894;stroke-miterlimit:10;}
-	.st13{font-size:12px;}
-	.st14{fill:#5B9E04;}
-	.st15{font-family:'Arial-BoldMT';}
-	.st16{font-size:18px;}
-	.st17{fill:#146DEF;}
-	.st18{font-size:17px;}
-	.st19{fill:#333333;}
-	.st20{font-size:62px;}
+	.st1{enable-background:new    ;}
+	.st2{fill:none;stroke:#2D2D2D;stroke-miterlimit:10;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:21px;}
+	.st5{fill:#188EEF;}
+	.st6{fill:#FCFCFC;}
+	.st7{font-size:20px;}
+	.st8{fill:#444443;}
+	.st9{fill:none;stroke:#9FA894;stroke-miterlimit:10;}
+	.st10{font-size:12px;}
+	.st11{fill:#5B9E04;}
+	.st12{font-family:'Arial-BoldMT';}
+	.st13{font-size:18px;}
+	.st14{fill:#146DEF;}
+	.st15{font-size:17px;}
+	.st16{fill:#333333;}
+	.st17{font-family:'Arial-Black';}
+	.st18{font-size:62px;}
 </style>
 <rect x="80" y="40" class="st0" width="217" height="58"/>
-<text transform="matrix(1 0 0 1 80 91.5513)" class="st1 st2 st3">2017</text>
+<g class="st1">
+	<path class="st2" d="M124.9,91.6h-43c0.5-4.2,2-8.2,4.5-12s7.2-8.2,14-13.2c4.2-3.1,6.9-5.5,8.1-7.1c1.2-1.6,1.8-3.2,1.8-4.6
+		c0-1.6-0.6-2.9-1.7-4c-1.2-1.1-2.6-1.7-4.4-1.7c-1.8,0-3.3,0.6-4.5,1.7c-1.2,1.1-1.9,3.2-2.3,6.1L83,55.6c0.6-4,1.6-7.2,3.1-9.4
+		c1.5-2.3,3.6-4,6.3-5.2c2.7-1.2,6.5-1.8,11.3-1.8c5,0,9,0.6,11.8,1.7c2.8,1.1,5,2.9,6.6,5.3c1.6,2.4,2.4,5,2.4,8
+		c0,3.1-0.9,6.1-2.8,9c-1.8,2.9-5.2,6-10,9.4c-2.9,2-4.8,3.4-5.8,4.2c-1,0.8-2.1,1.8-3.4,3.1h22.4V91.6z"/>
+	<path class="st2" d="M131,65.6c0-9.8,1.8-16.7,5.3-20.6c3.5-3.9,8.9-5.9,16.1-5.9c3.5,0,6.3,0.4,8.5,1.3c2.2,0.9,4,2,5.4,3.3
+		s2.5,2.8,3.3,4.3s1.5,3.3,2,5.3c1,3.8,1.4,7.9,1.4,12c0,9.4-1.6,16.2-4.7,20.5s-8.6,6.5-16.3,6.5c-4.3,0-7.8-0.7-10.5-2.1
+		s-4.9-3.4-6.6-6.1c-1.2-1.9-2.2-4.5-2.9-7.8C131.3,73.2,131,69.6,131,65.6z M145.2,65.6c0,6.6,0.6,11,1.7,13.4s2.8,3.6,5,3.6
+		c1.5,0,2.7-0.5,3.8-1.5c1.1-1,1.9-2.6,2.4-4.8c0.5-2.2,0.8-5.6,0.8-10.3c0-6.8-0.6-11.4-1.7-13.8s-2.9-3.5-5.2-3.5
+		c-2.4,0-4.1,1.2-5.1,3.6C145.7,54.7,145.2,59.1,145.2,65.6z"/>
+	<path class="st2" d="M211.4,39.1v52.4H197V57.2c-2.3,1.8-4.6,3.2-6.8,4.3c-2.2,1.1-4.9,2.2-8.2,3.2V52.9c4.9-1.6,8.7-3.5,11.4-5.7
+		c2.7-2.2,4.8-4.9,6.3-8.2H211.4z"/>
+	<path class="st2" d="M227.3,40h41.8v9.7c-3.6,3.3-6.7,6.8-9.1,10.7c-3,4.6-5.3,9.8-7,15.5c-1.4,4.4-2.3,9.7-2.7,15.7H236
+		c1.1-8.4,2.9-15.5,5.3-21.2c2.4-5.7,6.2-11.8,11.5-18.3h-25.5V40z"/>
+</g>
 <rect x="83" y="17" class="st0" width="41" height="31"/>
-<text transform="matrix(1 0 0 1 83 32.0356)" class="st4 st5">In</text>
+<text transform="matrix(1 0 0 1 83 32.0356)" class="st3 st4">In</text>
 <rect x="80" y="110" class="st0" width="206" height="29"/>
-<text transform="matrix(1 0 0 1 80 125.0356)" class="st4 st5">there were </text>
-<rect x="188" y="101" class="st6" width="83.3" height="32"/>
+<text transform="matrix(1 0 0 1 80 125.0356)" class="st3 st4">there were </text>
+<rect x="188" y="101" class="st5" width="83.3" height="32"/>
 <rect x="197" y="109" class="st0" width="80" height="22"/>
-<text transform="matrix(1 0 0 1 197 124.752)" class="st7 st2 st8">7,753</text>
+<g class="st1">
+	<path class="st6" d="M198,109h12.8v3c-1.1,1-2,2.1-2.8,3.3c-0.9,1.4-1.6,3-2.1,4.7c-0.4,1.4-0.7,3-0.8,4.8h-4.4
+		c0.3-2.6,0.9-4.7,1.6-6.5c0.7-1.7,1.9-3.6,3.5-5.6H198V109z"/>
+	<path class="st6" d="M213,120.4h4.7v3.6c0,1.3-0.3,2.4-0.8,3.1c-0.6,0.8-1.5,1.4-2.8,2l-1-1.9c0.8-0.4,1.4-0.8,1.7-1.2
+		c0.3-0.4,0.5-0.8,0.5-1.4H213V120.4z"/>
+	<path class="st6" d="M220,109h12.8v3c-1.1,1-2,2.1-2.8,3.3c-0.9,1.4-1.6,3-2.1,4.7c-0.4,1.4-0.7,3-0.8,4.8h-4.4
+		c0.3-2.6,0.9-4.7,1.6-6.5c0.7-1.7,1.9-3.6,3.5-5.6H220V109z"/>
+	<path class="st6" d="M236.3,109h10.4v3.5h-7l-0.4,2.4c0.5-0.2,1-0.4,1.4-0.5c0.5-0.1,0.9-0.2,1.4-0.2c1.6,0,2.9,0.5,3.8,1.4
+		c1,1,1.5,2.2,1.5,3.6c0,1-0.3,2-0.8,2.9s-1.2,1.7-2.1,2.1c-0.9,0.5-2.1,0.7-3.6,0.7c-1,0-1.9-0.1-2.7-0.3c-0.7-0.2-1.4-0.5-1.9-0.9
+		c-0.5-0.4-0.9-0.8-1.3-1.3s-0.6-1.1-0.8-1.8l4.4-0.5c0.1,0.7,0.4,1.2,0.8,1.6c0.4,0.4,0.9,0.6,1.4,0.6c0.6,0,1.1-0.2,1.5-0.7
+		c0.4-0.5,0.6-1.2,0.6-2.1c0-0.9-0.2-1.6-0.6-2.1c-0.4-0.4-0.9-0.7-1.6-0.7c-0.4,0-0.8,0.1-1.2,0.3c-0.3,0.2-0.6,0.4-1,0.8l-3.7-0.5
+		L236.3,109z"/>
+	<path class="st6" d="M253.5,113.6l-4.1-0.7c0.3-1.3,1-2.3,2-3s2.4-1.1,4.2-1.1c2.1,0,3.5,0.4,4.5,1.1c0.9,0.8,1.4,1.7,1.4,2.9
+		c0,0.7-0.2,1.3-0.6,1.8c-0.4,0.6-0.9,1-1.7,1.5c0.6,0.2,1.1,0.3,1.4,0.5c0.5,0.3,0.9,0.7,1.2,1.3c0.3,0.5,0.4,1.2,0.4,1.9
+		c0,0.9-0.2,1.8-0.7,2.6c-0.5,0.8-1.2,1.5-2.1,1.9c-0.9,0.5-2.1,0.7-3.6,0.7c-1.4,0-2.6-0.2-3.4-0.5s-1.5-0.8-2-1.5
+		c-0.5-0.6-0.9-1.5-1.2-2.4l4.4-0.6c0.2,0.9,0.4,1.5,0.8,1.8c0.4,0.3,0.8,0.5,1.4,0.5c0.6,0,1.1-0.2,1.5-0.6c0.4-0.4,0.6-1,0.6-1.7
+		c0-0.7-0.2-1.3-0.6-1.7s-0.9-0.6-1.5-0.6c-0.3,0-0.8,0.1-1.4,0.3l0.2-3.1c0.2,0,0.4,0.1,0.6,0.1c0.6,0,1.1-0.2,1.4-0.5
+		c0.4-0.4,0.6-0.8,0.6-1.3c0-0.5-0.1-0.9-0.4-1.1c-0.3-0.3-0.7-0.4-1.2-0.4c-0.5,0-0.9,0.2-1.3,0.5
+		C253.8,112.2,253.6,112.8,253.5,113.6z"/>
+</g>
 <rect x="79" y="139" class="st0" width="206" height="23"/>
-<text transform="matrix(1 0 0 1 79 154.0356)" class="st4 st5">calls related to stray </text>
+<text transform="matrix(1 0 0 1 79 154.0356)" class="st3 st4">calls related to stray </text>
 <rect x="365" y="15" class="st0" width="186" height="31"/>
-<text transform="matrix(1 0 0 1 365 29.3198)" class="st4 st9">Of those calls,</text>
-<rect x="366" y="37" class="st10" width="189" height="54"/>
+<text transform="matrix(1 0 0 1 365 29.3198)" class="st3 st7">Of those calls,</text>
+<rect x="366" y="37" class="st8" width="189" height="54"/>
 <rect x="391" y="48" class="st0" width="176" height="40"/>
-<text transform="matrix(1 0 0 1 391 79.5034)" class="st7 st2 st11">1,955</text>
-<line class="st12" x1="311" y1="16" x2="311" y2="207"/>
+<g class="st1">
+	<path class="st6" d="M412.6,47.5v32h-8.9v-21c-1.4,1.1-2.8,2-4.2,2.6c-1.3,0.7-3,1.3-5,1.9v-7.2c3-1,5.3-2.1,6.9-3.5
+		c1.6-1.3,2.9-3,3.9-5H412.6z"/>
+	<path class="st6" d="M423,70.8h9.3V78c0,2.6-0.6,4.7-1.7,6.3c-1.1,1.5-3,2.9-5.7,4.1l-2-3.8c1.7-0.8,2.8-1.5,3.4-2.3
+		c0.6-0.8,1-1.7,1-2.7H423V70.8z"/>
+	<path class="st6" d="M437.2,72.4l8.7-1.1c0.2,1.2,0.6,2.1,1.2,2.6c0.5,0.5,1.2,0.8,2,0.8c1.4,0,2.5-0.7,3.3-2.1
+		c0.6-1,1-3.3,1.3-6.6c-1,1.1-2.1,1.9-3.2,2.4c-1.1,0.5-2.4,0.8-3.8,0.8c-2.8,0-5.2-1-7.1-3c-1.9-2-2.9-4.5-2.9-7.6
+		c0-2.1,0.5-4,1.5-5.7s2.3-3,4.1-3.9c1.7-0.9,3.9-1.3,6.5-1.3c3.2,0,5.7,0.5,7.6,1.6c1.9,1.1,3.4,2.8,4.6,5.2
+		c1.1,2.4,1.7,5.5,1.7,9.3c0,5.7-1.2,9.9-3.6,12.5c-2.4,2.6-5.7,4-9.9,4c-2.5,0-4.5-0.3-5.9-0.9c-1.4-0.6-2.6-1.4-3.6-2.5
+		C438.4,75.5,437.7,74.1,437.2,72.4z M453.3,58.4c0-1.7-0.4-3-1.3-4s-1.9-1.5-3.1-1.5c-1.2,0-2.1,0.4-2.9,1.3
+		c-0.8,0.9-1.1,2.2-1.1,3.9c0,1.8,0.4,3.1,1.2,4c0.8,0.9,1.8,1.4,3,1.4c1.2,0,2.3-0.5,3.1-1.4S453.3,60.1,453.3,58.4z"/>
+	<path class="st6" d="M469.7,48h20.8v7h-14.1l-0.8,4.7c1-0.5,1.9-0.8,2.9-1c1-0.2,1.9-0.3,2.8-0.3c3.2,0,5.7,1,7.7,2.9
+		c2,1.9,2.9,4.3,2.9,7.2c0,2-0.5,4-1.5,5.9c-1,1.9-2.4,3.3-4.3,4.3S481.9,80,479,80c-2.1,0-3.9-0.2-5.3-0.6s-2.7-1-3.8-1.8
+		c-1-0.8-1.9-1.7-2.5-2.7s-1.2-2.2-1.6-3.7l8.9-1c0.2,1.4,0.7,2.5,1.5,3.2c0.8,0.7,1.7,1.1,2.8,1.1c1.2,0,2.2-0.5,3-1.4
+		s1.2-2.3,1.2-4.1c0-1.9-0.4-3.3-1.2-4.1c-0.8-0.9-1.9-1.3-3.2-1.3c-0.8,0-1.7,0.2-2.4,0.6c-0.6,0.3-1.2,0.8-1.9,1.6l-7.5-1.1
+		L469.7,48z"/>
+	<path class="st6" d="M499,48h20.8v7h-14.1l-0.8,4.7c1-0.5,1.9-0.8,2.9-1c1-0.2,1.9-0.3,2.8-0.3c3.2,0,5.7,1,7.7,2.9
+		c2,1.9,2.9,4.3,2.9,7.2c0,2-0.5,4-1.5,5.9c-1,1.9-2.4,3.3-4.3,4.3s-4.2,1.5-7.1,1.5c-2.1,0-3.9-0.2-5.3-0.6s-2.7-1-3.8-1.8
+		c-1-0.8-1.9-1.7-2.5-2.7s-1.2-2.2-1.6-3.7l8.9-1c0.2,1.4,0.7,2.5,1.5,3.2c0.8,0.7,1.7,1.1,2.8,1.1c1.2,0,2.2-0.5,3-1.4
+		s1.2-2.3,1.2-4.1c0-1.9-0.4-3.3-1.2-4.1c-0.8-0.9-1.9-1.3-3.2-1.3c-0.8,0-1.7,0.2-2.4,0.6c-0.6,0.3-1.2,0.8-1.9,1.6l-7.5-1.1
+		L499,48z"/>
+</g>
+<line class="st9" x1="311" y1="16" x2="311" y2="207"/>
 <rect x="366" y="101" class="st0" width="195" height="22"/>
-<text transform="matrix(1 0 0 1 366 113.8877)"><tspan x="0" y="0" class="st4 st13">were for stray </tspan><tspan x="76" y="0" class="st14 st15 st16">dog pick-ups</tspan></text>
-<rect x="365" y="123" class="st10" width="189" height="54"/>
+<text transform="matrix(1 0 0 1 366 113.8877)" class="st3 st10">were for stray </text>
+<text transform="matrix(1 0 0 1 442 113.8877)" class="st11 st12 st13">dog pick-ups</text>
+<rect x="365" y="123" class="st8" width="189" height="54"/>
 <rect x="390" y="134" class="st0" width="176" height="40"/>
-<text transform="matrix(1 0 0 1 390 165.5034)" class="st7 st2 st11">5,798</text>
+<g class="st1">
+	<path class="st6" d="M395.3,134h20.8v7h-14.1l-0.8,4.7c1-0.5,1.9-0.8,2.9-1c1-0.2,1.9-0.3,2.8-0.3c3.2,0,5.7,1,7.7,2.9
+		c2,1.9,2.9,4.3,2.9,7.2c0,2-0.5,4-1.5,5.9c-1,1.9-2.4,3.3-4.3,4.3c-1.9,1-4.2,1.5-7.1,1.5c-2.1,0-3.9-0.2-5.3-0.6s-2.7-1-3.8-1.8
+		c-1-0.8-1.9-1.7-2.5-2.7s-1.2-2.2-1.6-3.7l8.9-1c0.2,1.4,0.7,2.5,1.5,3.2c0.8,0.7,1.7,1.1,2.8,1.1c1.2,0,2.2-0.5,3-1.4
+		s1.2-2.3,1.2-4.1c0-1.9-0.4-3.3-1.2-4.1c-0.8-0.9-1.9-1.3-3.2-1.3c-0.8,0-1.7,0.2-2.4,0.6c-0.6,0.3-1.2,0.8-1.9,1.6l-7.5-1.1
+		L395.3,134z"/>
+	<path class="st6" d="M422,156.8h9.3v7.2c0,2.6-0.6,4.7-1.7,6.3c-1.1,1.5-3,2.9-5.7,4.1l-2-3.8c1.7-0.8,2.8-1.5,3.4-2.3
+		c0.6-0.8,1-1.7,1-2.7H422V156.8z"/>
+	<path class="st6" d="M436,134h25.5v5.9c-2.2,2-4.1,4.2-5.6,6.5c-1.8,2.8-3.2,6-4.3,9.5c-0.8,2.7-1.4,5.9-1.7,9.6h-8.7
+		c0.7-5.1,1.8-9.5,3.2-12.9c1.5-3.5,3.8-7.2,7-11.2H436V134z"/>
+	<path class="st6" d="M465.5,158.4l8.7-1.1c0.2,1.2,0.6,2.1,1.2,2.6c0.5,0.5,1.2,0.8,2,0.8c1.4,0,2.5-0.7,3.3-2.1
+		c0.6-1,1-3.3,1.3-6.6c-1,1.1-2.1,1.9-3.2,2.4c-1.1,0.5-2.4,0.8-3.8,0.8c-2.8,0-5.2-1-7.1-3c-1.9-2-2.9-4.5-2.9-7.6
+		c0-2.1,0.5-4,1.5-5.7s2.3-3,4.1-3.9c1.7-0.9,3.9-1.3,6.5-1.3c3.2,0,5.7,0.5,7.6,1.6c1.9,1.1,3.4,2.8,4.6,5.2
+		c1.1,2.4,1.7,5.5,1.7,9.3c0,5.7-1.2,9.9-3.6,12.5c-2.4,2.6-5.7,4-9.9,4c-2.5,0-4.5-0.3-5.9-0.9c-1.4-0.6-2.6-1.4-3.6-2.5
+		C466.8,161.5,466.1,160.1,465.5,158.4z M481.7,144.4c0-1.7-0.4-3-1.3-4s-1.9-1.5-3.1-1.5c-1.2,0-2.1,0.4-2.9,1.3
+		c-0.8,0.9-1.1,2.2-1.1,3.9c0,1.8,0.4,3.1,1.2,4c0.8,0.9,1.8,1.4,3,1.4c1.2,0,2.3-0.5,3.1-1.4S481.7,146.1,481.7,144.4z"/>
+	<path class="st6" d="M499.8,148.6c-1.4-0.7-2.4-1.5-3-2.4c-0.9-1.2-1.3-2.6-1.3-4.3c0-2.6,1.2-4.8,3.7-6.5c1.9-1.3,4.5-1.9,7.7-1.9
+		c4.2,0,7.3,0.8,9.3,2.4c2,1.6,3,3.6,3,6.1c0,1.4-0.4,2.7-1.2,4c-0.6,0.9-1.5,1.8-2.8,2.7c1.7,0.8,3,1.9,3.8,3.2
+		c0.8,1.3,1.3,2.8,1.3,4.5c0,1.6-0.4,3-1.1,4.4c-0.7,1.4-1.6,2.4-2.7,3.2c-1.1,0.7-2.4,1.3-3.9,1.6s-3.2,0.5-5,0.5
+		c-3.3,0-5.9-0.4-7.6-1.2s-3.1-1.9-4-3.5c-0.9-1.5-1.4-3.2-1.4-5.1c0-1.8,0.4-3.4,1.3-4.7C496.6,150.3,498,149.3,499.8,148.6z
+		 M503.2,155.9c0,1.4,0.4,2.5,1.3,3.4c0.8,0.9,1.8,1.3,2.9,1.3c1,0,2-0.4,2.8-1.3c0.8-0.9,1.2-2,1.2-3.4c0-1.4-0.4-2.5-1.3-3.4
+		c-0.8-0.9-1.8-1.3-2.9-1.3c-1.1,0-2,0.4-2.8,1.3S503.2,154.5,503.2,155.9z M503.7,142.4c0,1.1,0.3,2,1,2.6s1.6,1,2.7,1
+		c1,0,1.8-0.3,2.5-1c0.6-0.7,1-1.5,1-2.6c0-1.1-0.3-2-1-2.7c-0.7-0.7-1.5-1-2.6-1c-1.1,0-1.9,0.3-2.6,1S503.7,141.3,503.7,142.4z"/>
+</g>
 <rect x="367" y="188" class="st0" width="199" height="22"/>
-<text transform="matrix(1 0 0 1 367 200.8877)"><tspan x="0" y="0" class="st4 st13">were for stray </tspan><tspan x="76" y="0" class="st17 st15 st16">dog at large</tspan></text>
-<line class="st12" x1="608.5" y1="16" x2="608.5" y2="207"/>
-<image style="overflow:visible;" width="293" height="268" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEAlgCWAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
-EAMCAwYAAAbpAAAJ/QAAEyP/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
-Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
-JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIAQ0BKAMBIgACEQEDEQH/
-xADLAAEAAgMBAQAAAAAAAAAAAAAABQYCAwQBBwEBAAMBAQAAAAAAAAAAAAAAAAMEBQIBEAABAwMD
-BAICAwEBAAAAAAADAQIEACAFEDMGMBESNBU1IRRAYBOAMREAAgEABQULCwIFBQEAAAAAAQIDACAR
-IQQxQVESczBhcYGRobEissITEMHRMkJSYnKSIzSCM0DhotIkYIDiQ1MUEgABAgIHBgUEAwEAAAAA
-AAABEQIAECAhMUFRcRKBkSIycgOhsdFCUkBhwRNgYoLw/9oADAMBAAIRAxEAAAD6AAAAAAAAAAAA
-AAAAAAAAAAAAYmTU982tQ2scvPQAAADzA2MMwAAAAAAAABVJim36AaOeBaZyDnMbZCCYYmXDCwV6
-jOR3IvUvfCSNliOvvhUclxk/ncjTt3Ro30L4eegAAAOLlqtyp7qNTLAAtM5BzmNshBMqc3S79ANH
-PAN01HJX1ihvHMJYwOy7fPbLSu2AZmkAA84KpZrWmvRq/QCxAAABaZyDnMbZCCaswE1C7WME0LLG
-Q56tfUYW407hQNMzDbmIHfCQj+rju9jC3AAIWqWuqa2SFqsN3jSmYbnoO+QLTOQc5jbIQTVuvXek
-a2UFqq6uV579E9rlhxNrJ5Eeew0X75t4odcpKNtUE02MbZAAhapa67q5XN7YZt7XrJtZ9+Fqlrqm
-jnBarAWmcg5zG2QgmVmzeSR/O1nrGxkBJGzwGzWAAluesLj5lj64QzAAYZegACFqlrqmtkharAWm
-cg5zG2QgmRWVOuU92g08wPRsmY+4JYIZ7oEkbLEWee+dWjO0J0UL4AAAAELVLXVNbJC1WAtM5Bzm
-NsvPeWGWn8hvYQe+M8Jvjue7DD22ncKHzWmrbOME0TPAfQNsLNYe4EfYAAAELVLXVNbJC1WAtM5B
-zmNso6Rj+OqUNzEAWStzkE9pGNsAR1LtlT1coLdUCxWOvWHH1wr2AAAAIWqWuqa2SFqsBaZyDnMb
-ZatqCb535KxW9hB1y2axe+qgT2Xp2HCFhOenEauWHvg6PFplMcsLdDnoAAACFqlrqmtkharAWmcg
-5zG2Qgm5KR9CjbdSmNurVywAAABkY2/TOZukFG6AAAABFVy8LNajrwkjo68CIlyraDjsDTBWNLFR
-+P6JjarfPF9w7joq9ZFE67vlxJWZzqVbIRSgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/aAAgBAgABBQD+R4rXit3ZenBB+dJW/oGCqowA
-mauAJ1Ggp2VFRbY8Rz6RERNJW/UEKLqQ4x0M4iLpNCit1BFeVBRBDtlb9RU7Ap7vFjnK5UVUUT/M
-dFTuPWFs0qoiDI0iaSt+oT0cKnNRzSieNwxuI4bPBlSiIwOsNyNAScNtFOQqwtnSVv0ErhOCZhW1
-270iImhCNY053FddC2dJW/UWL50iIiUQwx0M4iayoqNS6Fs6St9qd1a1Gtor/AbnK5UVUWOX/QdK
-ndCs8CWwtnSVvh3dJaKoNIKKgdJe/bC2dJW+i9lG9HspURUNCe1RQyuVrUa2lVEQj/N9sLZ0lb9R
-JP8AmqKipbLko68Ut4mfIEr5AlEer36DOQdNyDqTIMr5BlOyDqJIKT+of//aAAgBAwABBQD+R5JX
-kl3dOnNN+NI2zoaaiK85X6tMVtCnL3RUVLZEtrKVVVdI2zU4ypqMJCUQBRppCMqO1NKYJSyiktjb
-NSl7mpjfJ7Wo1FRFQrPAlCXsTWbvUiKqkG4a6RtmprFaWmuVrhFYRpCNY0j/ADfUUavLrMarjjhE
-dQgDEk3e0jbNGE0rShcJ1d+1KqroNjnuABom3Td7SNs1KleFKqqtDCQlEAQesWUrlum72kbZcvZH
-OVzqEzzI1qNRURUkC/zJSL2oT/Mds3e0jbJtrSIqIfScqKbSJsWzd7SNsqndCMVj6RVRQzWOQkwT
-Uc5XOpEVVGzwZbN3tI2zUqN/oioqLbEjK28sVhH/AKA6/QHQ2IxmhAjJTse2vj31+g+m49tDjiH/
-AFD/2gAIAQEAAQUA/vDnsYn7Mev2Y9fsx6/Zj0x7Hp0VVERTBbSFGv8AE5LkEPIs4p6d03MQYVSe
-Uyn0XK5E1Oe566MIRlCyuSFUflE4aw+QY+SqKip1c1lEgR1VVWzinp2Pe1jcryIhVVVVejjc1Kgu
-iSwTA9PJZMGPDJkmlGt4p6dmfyyyS9TGZEuPkCKww+jk+QR4iSJBpJbuKenrnJqw8fbFhyJhA8Te
-rS8T/E3HyoL7eLTFcy+ZnsfFqfnZszo8U9PXlZlU1gxvKTHwRQY2kqKGWCXGfEk2YIqiyluayBcf
-ElZOdL6fFPT15V9hZgWo/LWcoYjcjZi+/wAjbyr6/p8U9PXlgV87MZIbGn2cikNNk7OPhUuUt5V9
-fZFhyJhcnhhY7G28U9PXMQv3YCoqLZhc+No2PY9tZXPAjDVVctnGYKhjW8q+v0Yx73Y/jJi1HjAi
-j5V9fbxT07M/hnNfaMxRU+TJIluFxD55URGpbyr6+NjpsuonFVqLBiQ26cq+vt4p6duXwEZ7VTsv
-RwmIFOcMbBMueMZEt5V9fbxT07MrnAwKlzZUwnSGQgn4nkKGXqcq+vt4p6eubyn6EdznPdYABpBA
-cVkvaXiZUSXCkwyW8dyynb0+VfX28U9PXKTFmTrAiIcuNxoceDSVFBLDkIJIEqwJngNGOyTH6XKv
-r7eKenpkzKHH28WjoSZZymMj4lvFzq+B0uVfX28U9PTkH1FvE9uzP9viLeJO/PS5V9fbxT09M6xX
-4m3ishGSbOTyEHAt4mxUH0uVfX28U9PSQFDx3Nc11kc5I5oE8M8GhSjCPK5B2Ql28djqDGdLlX19
-vFPT15FCWNOtiy5EMsflY/EnK4iNyGVl5B1sCI+bLYxrGdLlX19vFPT1ycBk+KYRAF6n/tYHFrCB
-0+VfX28U9OzLYcWQZJiniF6QxvI/DYFIy9TkUY8mF8NlK+GylfDZSvhspXw2UrjkWRFi2yIseUOX
-xX8nw2TBTmPYtjWucocRkj1F4qVyw8dDhN/mOa1yOgwXr8Vja+KxtNx0BlNYxif8Yf/aAAgBAgIG
-PwD6iwxYfof2uuqb6zfnPV3Tp/qLdscLG+Z3z4mN3QvaP+T+DBBCEUg5/CzC8wgqAm/OR7rrijc8
-Zo9wBwtMI1ynCwz/AGgVt5vuKGpQ1uN+6FTU7F1F+cmZSc74tJ3QXEqTWYBFRENcbXNrk8G9poDq
-MlJQDGNTawqTfnLTewp6SLTY4JvhHDI3GNLQsNaPaEk7Fw0jbQVxAGo2wjOM7hvjiNXxFkDqM35y
-1N2jEQrdoN0q4qCSLnWCFNQHKKY6jN+ctb+W4YwgCAXCXG4N84RjgThYZnudsVe5v5FMdRm/OABe
-UgNFjQknP+I8boLnFSYUFCIDjbYcxJDDm/E+F1IdRm/OO31t85vT7HcZk4vJE37PKkOozfnCi6Gv
-HuEkN8E9sam4XiOIaG3k2wGtqAqkSagAphzvkVpDqM35y0P5D4GFBUGl+th4fccaegNaQq1xys8Y
-5WeMF5qLsJ8DkGF0cTAcinrFbHRyOjhYBmVhHOqwFQ/iH//aAAgBAwIGPwD6i0RaPof1Nv5vSbMp
-6e3xf2NmyOJ7vIbp8L3b4Tuj/Q/IgEFQaRazifjcIU1kzZlIdpt9bvSasaSMbBCuagxtE/1mx3L9
-jQ0oXO/6+EXS3BtFmUn5ya35OA3wAAgFkEGsGHNHtNUmEXOFA9IkgCk4RpdUUWbMparnhfWQcLWl
-d0K05i8RqcUhzj7ism4NOo7KCNBJ0iyFdwDeY4RX8jbB6RNmUtLthwMI7YRfKqK65BrbTCCsnmNM
-9ImzKWhnNecIUlScZcDS7yhXtIGNomO33DX7Xfg0z0ibMoJNwWC42krJrPkfCA1oQCEIUGC0WWjI
-yUQ13yHjSPSJsyjudDvKbF+43iYGDAJs2+dI9ImzKEN8OafaZKLoA7h0uxuMcJ1uuSyC51ZNcgBa
-ahDW/EJSPSJsylrbzjxEIQhFL9jxxe0YU9ZLhUlUcz/COZ/hAYKw2fE2vG+OF5GYWKntjnbHE8nI
-JCtbXiaz/EP/2gAIAQEBBj8A/wBcWuwUaSbKfup9Qp+6n1Cn7qfUKfup9QpajBgM4NvRuVpuFOtI
-o4SKXOvKP4QYWM2xwetZnk/45OWrNtO6K5WV9aUf9adZuPMOOhGGjWJczN129HNT7mIe/Mp1RyLZ
-S1iWOkm3y2oxXgJFOpiZOBm1hyNbQCdEmXOfUblF3NQKzGCQ5pLhxNkpaMm7aqH/ACJRZGPdHvUJ
-JtJvJNWbad0VS7kKqi1mJsAFGgwJKRZDLkZvl0Dnpacu5BCTLh88bHJ8pzUWaBtZTlGcHQRumvId
-aRv24xlY+ijTzNrO2XQN4Vptp3RVOEgP+PGbHI9th5huokW0xNdKnvD0jNRZYzrI4DKd47kYsORN
-iMl3qKd85+CjTTsXkbKTXm2ndFR2Q2SSfbTeLZTxCt4WHQu2fQBpJzUtnxAVvdRdbnJHRQmHE35g
-63coPmpqYhLAfVcXq3Aa0mCc26nXj+UnrDl3AqH8aQexHfytkoUB8GE+wmcfE2U7jNtO6KkEGZVL
-kfMbO7VWJBa7kKo3ybBRYIxfld87NnPlaCZdZG5QdI36SYd/WjNlukZjxirAczkof1CzprLNCqs7
-OE61tgtDG26zRQieZip9gdVeQbnNtO6KkexXtPVw4OS1jxqrEdFVWHtxKTwgsOgVcLZl8VOmtHtl
-7L7pNtO6KmHnGQhkJ4Lx0mrBMxsVWsY6Fbqk8hquFNohUR274tJ5zViOaMF24hYOcitHtl7L1fCw
-6F2znMo0k5qJIW18Q8qqzeyBqsbFHFWm2ndFSSJRbIvXj+Zc3GLqWHLVXC41tXVujmOSzQ3poGRg
-ynIwNoPkaLCsJMQbrVvVN8nTvULMbSbyTpqtinFjz+rvIPTWj2y9l/KERSzG4KBaTxCgkxp8KPL4
-Y9c8OYUEUCCNBmGffJz0j2y9l60207oqtjsMtqNfMgyqfeG9prWxOyfKSOimrJK7roZiRzmsJJAR
-hUPWPvEeyPPQKosAuAGitHtl7L0HgQsyn2yLF+o3UDYyWz4I/wC4+imrh4gmlsrHhY3+WPbL2XrT
-bTuis2JgdcO2VlY6sZ/toRouuvG5eJNIvhob4VPXbh0CixxqFRRYqi4AVwJEVwp1l1gDYdItrR7Z
-ey9abad0VTFGBLifd9lfm9FNfESFzmGRRwDcxJExR1yMpsIouHxpCyG5Zcit82g7rHtl7L1ptp3R
-U1Yz/kS2hPhGdvRQsxLMxtJN5JNURQIZJDkUUtnmWI+6oLnjvWhMOIVjmDqV5wWp4eIQoTkOUHgN
-b/4sQ1sqD7THKyj2eEbpHtl7L1ptp3RUlmttS3Vj+RcnpqpDGNZ3IVRvmgjS+Rr5JM7H0eVoZ11k
-blB0jfo2He8C9G95TkNVJozY8ZDKd8UjnT1ZFDcFubi3OPbL2XrTbTujy4iQXERsAd8jVHTWknIt
-8FbF3me7oBqx4kDrxNqk/C387KzRHLC5A+Vut027nHtl7L1ptp3R5cR+jtrWxPCnQ1XEW/B21rYp
-dmR/Xuce2XsvWm2ndHlxAGYA/Syt5q00BNniqGXhT+RqrDb1pnF3wr1jz2VsS+Zii/SGPn3OPbL2
-XrTbTujyyQnJIjL9QsoVYWMpsI3xVSeI2PGdYUE0Rv8AbTOp0HytLKwREFrMcgFDLeI16sSnMu/v
-msjEWNMTIeA3DmG5x7Zey9abad0VDKo+3iOuPm9oct/HWEuHco2fQRoIoBioCGztGQQf0tZ00+1D
-IzaG1VHKC1PunVjBtWJfVG/vmtHh1yMesdCj1jRUUWKoAUaANzj2y9l60207oqNAbn9aNtDCjRSq
-VkQ2Mp07sZZRZiJh1h7q5l9O6R7Zey9abad0VddbI8So6r5iPdahinQo405CNIOfcwkal3a4KotJ
-oMTiwGmF6R5Qm+dJ3VI8OhkcShiBo1WFvPT8Z+an4z81Pxn5qfjPzU/GfmpKmIjMbNJaAdFgreHi
-IxIuYHNwHNQtg5bv/OTzMPRQ6+HZgM6dcf020sdSp0EWVbFBJOYX0+3h3s0sNQcrWUDYuUIM6R3n
-6jcOelmHjCk5XN7HhJ/jbGAYaDfS1sPEx30U+an40f0in40f0inVw0Q39RbeiliKFGgCz/Zj/9k=" transform="matrix(0.48 0 0 0.48 654.72 60.28)">
+<text transform="matrix(1 0 0 1 367 200.8877)" class="st3 st10">were for stray </text>
+<text transform="matrix(1 0 0 1 443 200.8877)" class="st14 st12 st13">dog at large</text>
+<line class="st9" x1="608.5" y1="16" x2="608.5" y2="207"/>
+<image style="overflow:visible;enable-background:new    ;" width="296" height="269" xlink:href="61BEB21C2A71C61D.jpeg"  transform="matrix(0.4751 0 0 0.4751 654.72 60.6943)">
 </image>
 <rect x="646" y="23" class="st0" width="226" height="47"/>
-<text transform="matrix(1 0 0 1 646 35.1719)"><tspan x="0" y="0" class="st4 st18">The number of stray dog calls </tspan><tspan x="0" y="20.4" class="st4 st18">has declined by</tspan></text>
+<text transform="matrix(1 0 0 1 646 35.1719)" class="st3 st15">The number of stray dog calls </text>
+<text transform="matrix(1 0 0 1 646 55.5719)" class="st3 st15">has declined by</text>
 <rect x="646" y="172" class="st0" width="226" height="47"/>
-<text transform="matrix(1 0 0 1 646 186.3198)"><tspan x="0" y="0" class="st4 st18">between</tspan><tspan x="64.3" y="0" class="st19 st4 st9"> </tspan><tspan x="69.8" y="0" class="st19 st2 st9">2016</tspan><tspan x="123.2" y="0" class="st2 st18"> </tspan><tspan x="128.9" y="0" class="st4 st18">and</tspan><tspan x="157.2" y="0" class="st4 st9"> </tspan><tspan x="162.8" y="0" class="st19 st2 st9">2017</tspan><tspan x="216.1" y="0" class="st4 st9">.</tspan></text>
+<text transform="matrix(1 0 0 1 646 186.3198)" class="st3 st15">between</text>
+<text transform="matrix(1 0 0 1 710.3 186.3198)" class="st16 st3 st7"> </text>
+<text transform="matrix(1 0 0 1 715.8 186.3198)" class="st16 st17 st7">2016</text>
+<text transform="matrix(1 0 0 1 769.2 186.3198)" class="st17 st15"> </text>
+<text transform="matrix(1 0 0 1 774.9 186.3198)" class="st3 st15">and</text>
+<text transform="matrix(1 0 0 1 803.2 186.3198)" class="st3 st7"> </text>
+<text transform="matrix(1 0 0 1 808.8 186.3198)" class="st16 st17 st7">2017</text>
+<text transform="matrix(1 0 0 1 862.1 186.3198)" class="st3 st7">.</text>
 <rect x="79" y="169" class="st0" width="187" height="30"/>
-<text transform="matrix(1 0 0 1 79 184.0356)" class="st4 st5">dogs.</text>
+<text transform="matrix(1 0 0 1 79 184.0356)" class="st3 st4">dogs.</text>
 <rect x="789" y="76" class="st0" width="59" height="56"/>
-<text transform="matrix(1 0 0 1 789 120.3916)" class="st6 st4 st20">%</text>
+<text transform="matrix(1 0 0 1 789 120.3916)" class="st5 st3 st18">%</text>
 </svg>
